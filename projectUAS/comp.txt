@@ -1,0 +1,25 @@
+Mayora Group
+30
+20
+50
+600
+Unilever
+12
+20
+30
+575
+Gudang Garam
+56
+43
+100
+600
+Wika Group
+43
+32
+67
+400
+Freeport Indonesia
+12
+23
+45
+1000

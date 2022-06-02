@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654168238 source:d:\second\file kuliah\alprog\project uts\projectuts\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNC.h"
+
+1654168554 d:\second\file kuliah\alprog\project uts\projectuts\func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
