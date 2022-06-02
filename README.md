@@ -20,42 +20,26 @@ Program yang kelompok kami buat merupakan program yang dibangun menggunakan baha
 Function:
 Program yang kelompok kami buat akan memiliki beberapa fungsi. fungsi pertama adalah fungsi void yang tidak menurut apapapun, fungsi tersebut akan digunakan untuk memasukkan data perusahaan, termasuk nama, komponen dari parameter emisi gas buang seperti CO, CO2, dan lain - lain. Selain itu fungsi void juga digunakan untuk menampilkan data perusahaan beserta komponen parameter, mencari perusahaan dengan data masukan tertentu, dan mengurutkan perusahaan berdasarkan parameter emisi yang akan ditentukan oleh user. Fungsi selanjutnya yang digunakan adalah fungsi yang akan mereturn nilai. Fungsi tersebut akan digunakan sebagai fungsi untuk melakukan perhitungan	standar kelayakan suatu perusahaan berdasarkan pada parameter yang sebelumnya telah diinputkan yaitu parameter dari emisi gas buang perusahaan.
 	
-	- User Friendly
-		Program kami akan menyediakan panduan bagi user agar meminimalisir keambiguan saat menjalankan program. Kami juga akan
-	mengelompokkan variabel - variabel yang akan digunakan pada program berdasarkan kategori tertentu untuk memudahkan programmer
-	lainnya melanjutkan program yang akan kami buat. Pada bagian user interface kita juga akan membuat page welcome pada pengguna dan
-	memberikan informasi apabila user salah memasukkan input.
+- User Friendly
+Program kami akan menyediakan panduan bagi user agar meminimalisir keambiguan saat menjalankan program. Kami juga akan mengelompokkan variabel - variabel yang akan digunakan pada program berdasarkan kategori tertentu untuk memudahkan programmer lainnya melanjutkan program yang akan kami buat. Pada bagian user interface kita juga akan membuat page welcome pada pengguna dan	memberikan informasi apabila user salah memasukkan input.
 	
-	- Header File
-		Program kami akan mengklasifikasikan function berdasarkan kategori-kategori tertentu dan menyimpannya dalam header file yang
-	terpisah untuk memudahkan pembagian tugas dan pengecekan apabila terjadi error pada program.
+- Header File
+Program kami akan mengklasifikasikan function berdasarkan kategori-kategori tertentu dan menyimpannya dalam header file yang terpisah untuk memudahkan pembagian tugas dan pengecekan apabila terjadi error pada program.
 	
-	- Function Prototype
-		Program kami menyediakan prototipe fungsi dalam masing-masing header file untuk mendeklarasikan data type dan
-	jumlah argumen yang diberikan dalam suatu function.
+- Function Prototype
+Program kami menyediakan prototipe fungsi dalam masing-masing header file untuk mendeklarasikan data type dan jumlah argumen yang diberikan dalam suatu function.
 	
-	- Rekursi
-		Program yang kami buat, akan terdiri dari satu fungsi rekursi yang spesifik menghitung rata - rata dari kandungan
-	gas emisi yang terdapat pada data perusahaan.
+- Rekursi
+Program yang kami buat, akan terdiri dari satu fungsi rekursi yang spesifik menghitung rata - rata dari kandungan gas emisi yang terdapat pada data perusahaan.
 	
-	- Array 1D
-		Array 1D akan digunakan sebagai variabel untuk menyimpan nama perusahaan dengan aturan, index 0 untuk perusahaan a,
-	index 1 untuk perusahaan b, index 2 untuk perusahaan c, dan seterusnya.
+- Array 1D
+Array 1D akan digunakan sebagai variabel untuk menyimpan nama perusahaan dengan aturan, index 0 untuk perusahaan a, index 1 untuk perusahaan b, index 2 untuk perusahaan c, dan seterusnya.
 	
-	- Array 2D:
-		Array 2D akan digunakan untuk menyimpan data dari parameter yang akan dihitung dari emisi gas yang dihasilkan
-	oleh tiap perusahaan. Misalnya, data[index1][index2], index 1 digunakan untuk data dari perusahaan misalnya index1 = 0,
-	maka perusahaan A dan index2 akan menyimpan data dari parameter emisi gas yang akan diamati misalnya index2 = 0, gas A.
+- Array 2D:
+Array 2D akan digunakan untuk menyimpan data dari parameter yang akan dihitung dari emisi gas yang dihasilkan oleh tiap perusahaan. Misalnya, data[index1][index2], index 1 digunakan untuk data dari perusahaan misalnya index1 = 0, maka perusahaan A dan index2 akan menyimpan data dari parameter emisi gas yang akan diamati misalnya index2 = 0, gas A.
 
-	- Searching
-		Program kami akan menggunakan searching dalam mencari data menggunakan tag key search tertentu, seperti
-	nama perusahaan dan hasil klasifikasi kualitas emisi gas buang. Kami akan menggunakan beberapa algoritma pencarian
-	berdasarkan parameter yang akan dicari dari data perusahaan. Untuk nama perusahaan kami akan mencari menggunakan algoritma linear,
-	sedangkan untuk parameter lainnya akan menggunakan algoritma seperti binary search untuk meminimalkan proses komputasi.
+- Searching
+Program kami akan menggunakan searching dalam mencari data menggunakan tag key search tertentu, seperti nama perusahaan dan hasil klasifikasi kualitas emisi gas buang. Kami akan menggunakan beberapa algoritma pencarian berdasarkan parameter yang akan dicari dari data perusahaan. Untuk nama perusahaan kami akan mencari menggunakan algoritma linear, sedangkan untuk parameter lainnya akan menggunakan algoritma seperti binary search untuk meminimalkan proses komputasi.
 
-	- Sorting
-		Program kami akan menggunakan sorting dalam mengurutkan data berdasarkan abjad nama perusahaan dan hasil klasifikasi
-	emisi gas buang. Kami akan menggunakan beberapa algoritma dari melakukan sorting berdasarkan dari parameter yang akan diurutkan.
-	Untuk mengurutkan data perusahaan berdasarkan abjad, maka kami akan menggunakan metode bubble sort dimana metode ini efektif
-	untuk data kecil seperti inisial awal nama perusahaan. Untuk parameter lainnya, kami akan mempertimbangkan algoritma pengurutan
-	seperti insertion sort maupun binary sort.
+- Sorting
+Program kami akan menggunakan sorting dalam mengurutkan data berdasarkan abjad nama perusahaan dan hasil klasifikasi emisi gas buang. Kami akan menggunakan beberapa algoritma dari melakukan sorting berdasarkan dari parameter yang akan diurutkan. Untuk mengurutkan data perusahaan berdasarkan abjad, maka kami akan menggunakan metode bubble sort dimana metode ini efektif untuk data kecil seperti inisial awal nama perusahaan. Untuk parameter lainnya, kami akan mempertimbangkan algoritma pengurutan seperti insertion sort maupun binary sort.
