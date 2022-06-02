@@ -38,6 +38,12 @@ Array 1D akan digunakan sebagai variabel untuk menyimpan nama perusahaan dengan 
 - Array 2D:
 Array 2D akan digunakan untuk menyimpan data dari parameter yang akan dihitung dari emisi gas yang dihasilkan oleh tiap perusahaan. Misalnya, data[index1][index2], index 1 digunakan untuk data dari perusahaan misalnya index1 = 0, maka perusahaan A dan index2 akan menyimpan data dari parameter emisi gas yang akan diamati misalnya index2 = 0, gas A.
 
+- Binary Tree
+Binary tree juga kami gunakan untuk melakukan beberapa operasi, seperti operasi penampilan data perusahaan, dan operasi pencarian data perusahaan.
+
+- Linked List
+Linked list digunakan untuk penampilan data perusahaan, pencarian data perusahaan, serta penambahan dan penghapusan data perusahaan.
+
 - Searching
 Program kami akan menggunakan searching dalam mencari data menggunakan tag key search tertentu, seperti nama perusahaan dan hasil klasifikasi kualitas emisi gas buang. Kami akan menggunakan beberapa algoritma pencarian berdasarkan parameter yang akan dicari dari data perusahaan. Untuk nama perusahaan kami akan mencari menggunakan algoritma linear, sedangkan untuk parameter lainnya akan menggunakan algoritma seperti binary search untuk meminimalkan proses komputasi.
 
