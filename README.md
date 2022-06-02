@@ -1,4 +1,4 @@
-# Projek UAS Algoritma Pemrograman: Emission Checked
+# Projek UAS Algoritma Pemrograman: EmissionChecked
 
 Nama Anggota:
 - Ivan Indirsyah Pahlevi (2006574332)
