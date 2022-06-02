@@ -5,49 +5,20 @@ Nama Anggota:
 - Ricky Rahman Papudi (2006574282)
 - Rifqi Annas Albasyahri (2006574370)
 
-Judul:  
-	EmissionChecked: Program penyedia klasifikasi kualitas emisi gas buang pada sektor Industri
+Judul:  EmissionChecked: Program penyedia klasifikasi kualitas emisi gas buang pada sektor Industri
 
-Tujuan:
-	Mengklasifikasikan kualitas emisi gas buang dari dari sektor industri sesuai dengan standarisasi 
-	Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
+Tujuan: 
+Mengklasifikasikan kualitas emisi gas buang dari dari sektor industri sesuai dengan standarisasi Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
 
 Latar Belakang:
-	Emisi gas pada dasarnya menjadi salah satu permasalahan utama yang terjadi di Indonesia.
-	Pada tahun 2015, sebuah studi melaporkan suhu bumi naik antara 1,5° hingga 2° Celcius dibandingkan masa pra-industri.
-	Selain itu, Menurut hasil penelitian lainnya, es Samudra Arktik terus mencair sehingga
-	permukaan air laut semakin tinggi setiap tahun. Ada pula riset yang menunjukkan bahwa air dari Samudera Atlantik
-	sudah naik ke Samudera Arktik. Oleh karena itu, Perjanjian Paris yang dilahirkan Conference of the Party (COP)
-	ke-21 pada Desember 2015 dilaksanakan sebagai salah satu upaya untuk mencegah perubahan iklim yang terjadi.
-	Partisipasi Indonesia dalam hal ini adalah menetapkan 4 target utama, yaitu menjaga kenaikan temperatur global
-	di bawah 2°C dan mengupayakan kenaikan temperatur global 1,5°C; Emisi Netto Nol (net-zero emission)
-	sebagai tujuan jangka panjang; komitmen untuk membatasi emisi gas rumah kaca melalui Nationally Determined Contribution (NDC);
-	dan terakhir, Global Stocktake secara berkala. Akan tetapi, sepanjang 2019, perusahaan energi masih menjadi penyumbang
-	emisi gas rumah kaca (GRK) terbesar (45.7% selain sektor hutan dan penggunaan lahan). Sub sektor pembangkitan listrik
-	bertanggung jawab terhadap 35% emisi GRK, diikuti oleh transportasi dan industri masing-masing 27%. Hingga tahun 2020,
-	sektor ketenagalistrikan Indonesia tetap didominasi oleh bahan bakar fosil (82%), dengan batubara menyumbang pangsa tertinggi (62%)
-	dalam pembangkitan listrik di tahun 2020. Akibatnya intensitas emisi sektor ketenagalistrikan selama lima tahun dari 2015-2020
-	tidak mengalami perubahan signifikan (hanya menurun sebesar 1%). Padahal, rata-rata negara anggota G20 telah menurun 10 kali lebih cepat.
-	Permasalahan emisi di indonesia bisa terjadi karena beberapa faktor seperti pemerintah yang kurang memiliki data terintegrasi
-	mengenai informasi perusahaan mana saja yang harus dijadikan prioritas untuk dikurangi emisinya. Selain itu, permasalahan
-	mungkin juga terjadi karena tidak adanya transparansi data mengenai informasi tersebut oleh sebagian perusahaan industri.
-	Oleh karena itu, kelompok kami menciptakan sebuah program yang dapat mengklasifikasikan kualitas emisi gas buang dari sektor industri
-	yang nantinya dapat dijadikan sebagai salah satu cara untuk mengawasi/memantau kinerja perusahaan dalam mengurangi emisinya.
+
+Emisi gas pada dasarnya menjadi salah satu permasalahan utama yang terjadi di Indonesia. Pada tahun 2015, sebuah studi melaporkan suhu bumi naik antara 1,5° hingga 2° Celcius dibandingkan masa pra-industri. Selain itu, Menurut hasil penelitian lainnya, es Samudra Arktik terus mencair sehingga permukaan air laut semakin tinggi setiap tahun. Ada pula riset yang menunjukkan bahwa air dari Samudera Atlantik	sudah naik ke Samudera Arktik. Oleh karena itu, Perjanjian Paris yang dilahirkan Conference of the Party (COP)	ke-21 pada Desember 2015 dilaksanakan sebagai salah satu upaya untuk mencegah perubahan iklim yang terjadi.	Partisipasi Indonesia dalam hal ini adalah menetapkan 4 target utama, yaitu menjaga kenaikan temperatur global	di bawah 2°C dan mengupayakan kenaikan temperatur global 1,5°C; Emisi Netto Nol (net-zero emission)	sebagai tujuan jangka panjang; komitmen untuk membatasi emisi gas rumah kaca melalui Nationally Determined Contribution (NDC); dan terakhir, Global Stocktake secara berkala. Akan tetapi, sepanjang 2019, perusahaan energi masih menjadi penyumbang	emisi gas rumah kaca (GRK) terbesar (45.7% selain sektor hutan dan penggunaan lahan). Sub sektor pembangkitan listrik	bertanggung jawab terhadap 35% emisi GRK, diikuti oleh transportasi dan industri masing-masing 27%. Hingga tahun 2020,	sektor ketenagalistrikan Indonesia tetap didominasi oleh bahan bakar fosil (82%), dengan batubara menyumbang pangsa tertinggi (62%) dalam pembangkitan listrik di tahun 2020. Akibatnya intensitas emisi sektor ketenagalistrikan selama lima tahun dari 2015-2020 tidak mengalami perubahan signifikan (hanya menurun sebesar 1%). Padahal, rata-rata negara anggota G20 telah menurun 10 kali lebih cepat.  Permasalahan emisi di indonesia bisa terjadi karena beberapa faktor seperti pemerintah yang kurang memiliki data terintegrasi mengenai informasi perusahaan mana saja yang harus dijadikan prioritas untuk dikurangi emisinya. Selain itu, permasalahan mungkin juga terjadi karena tidak adanya transparansi data mengenai informasi tersebut oleh sebagian perusahaan industri.	Oleh karena itu, kelompok kami menciptakan sebuah program yang dapat mengklasifikasikan kualitas emisi gas buang dari sektor industri	yang nantinya dapat dijadikan sebagai salah satu cara untuk mengawasi/memantau kinerja perusahaan dalam mengurangi emisinya.
 
 Deskripsi:
-	Program yang kelompok kami buat merupakan program yang dibangun menggunakan bahasa C. Program ini merupakan program yang
-	berbasis data struktur dimana data disimpan dalam array dengan sistem linked list. Data dalam satu array menggunakan sistem struct
-	dimana dalam satu struct tersebut berisi data berupa nama perusahaan, kualitas emisi perusahaan, level emisi perusahaan, dan kelompok
-	perusahaan yang berdasar pada emisi yang dihasilkan dari perusahaan. Program Kami juga akan menggunakan berbagai kriteria yang telah
-	ditetapkan, yaitu
+Program yang kelompok kami buat merupakan program yang dibangun menggunakan bahasa C. Program ini merupakan program yang berbasis data struktur dimana data disimpan dalam array dengan sistem linked list. Data dalam satu array menggunakan sistem struct dimana dalam satu struct tersebut berisi data berupa nama perusahaan, kualitas emisi perusahaan, level emisi perusahaan, dan kelompok perusahaan yang berdasar pada emisi yang dihasilkan dari perusahaan. Program Kami juga akan menggunakan berbagai kriteria yang telah ditetapkan, yaitu
 	
-	- Function
-		Program yang kelompok kami buat akan memiliki beberapa fungsi. fungsi pertama adalah fungsi void yang tidak menurut
-	apapapun, fungsi tersebut akan digunakan untuk memasukkan data perusahaan, termasuk nama, komponen dari parameter emisi gas buang seperti
-	CO, CO2, dan lain - lain. Selain itu fungsi void juga digunakan untuk menampilkan data perusahaan beserta komponen parameter, mencari
-	perusahaan dengan data masukan tertentu, dan mengurutkan perusahaan berdasarkan parameter emisi yang akan ditentukan oleh user. Fungsi
-	selanjutnya yang digunakan adalah fungsi yang akan mereturn nilai. Fungsi tersebut akan digunakan sebagai fungsi untuk melakukan perhitungan
-	standar kelayakan suatu perusahaan berdasarkan pada parameter yang sebelumnya telah diinputkan yaitu parameter dari emisi gas buang perusahaan.
+Function:
+Program yang kelompok kami buat akan memiliki beberapa fungsi. fungsi pertama adalah fungsi void yang tidak menurut apapapun, fungsi tersebut akan digunakan untuk memasukkan data perusahaan, termasuk nama, komponen dari parameter emisi gas buang seperti CO, CO2, dan lain - lain. Selain itu fungsi void juga digunakan untuk menampilkan data perusahaan beserta komponen parameter, mencari perusahaan dengan data masukan tertentu, dan mengurutkan perusahaan berdasarkan parameter emisi yang akan ditentukan oleh user. Fungsi selanjutnya yang digunakan adalah fungsi yang akan mereturn nilai. Fungsi tersebut akan digunakan sebagai fungsi untuk melakukan perhitungan	standar kelayakan suatu perusahaan berdasarkan pada parameter yang sebelumnya telah diinputkan yaitu parameter dari emisi gas buang perusahaan.
 	
 	- User Friendly
 		Program kami akan menyediakan panduan bagi user agar meminimalisir keambiguan saat menjalankan program. Kami juga akan
