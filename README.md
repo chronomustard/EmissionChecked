@@ -1,4 +1,4 @@
-# projekUAS_Alprog
+# Projek UAS Algoritma Pemrograman
 
 Nama Anggota:
 - Ivan Indirsyah Pahlevi (2006574332)
