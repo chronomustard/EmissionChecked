@@ -19,7 +19,9 @@ Program yang kelompok kami buat merupakan program yang dibangun menggunakan baha
 	
 Function:
 Program yang kelompok kami buat akan memiliki beberapa fungsi. fungsi pertama adalah fungsi void yang tidak menurut apapapun, fungsi tersebut akan digunakan untuk memasukkan data perusahaan, termasuk nama, komponen dari parameter emisi gas buang seperti CO, CO2, dan lain - lain. Selain itu fungsi void juga digunakan untuk menampilkan data perusahaan beserta komponen parameter, mencari perusahaan dengan data masukan tertentu, dan mengurutkan perusahaan berdasarkan parameter emisi yang akan ditentukan oleh user. Fungsi selanjutnya yang digunakan adalah fungsi yang akan mereturn nilai. Fungsi tersebut akan digunakan sebagai fungsi untuk melakukan perhitungan	standar kelayakan suatu perusahaan berdasarkan pada parameter yang sebelumnya telah diinputkan yaitu parameter dari emisi gas buang perusahaan.
-	
+
+Fitur-Fitur EmissionChecked
+
 - User Friendly
 Program kami akan menyediakan panduan bagi user agar meminimalisir keambiguan saat menjalankan program. Kami juga akan mengelompokkan variabel - variabel yang akan digunakan pada program berdasarkan kategori tertentu untuk memudahkan programmer lainnya melanjutkan program yang akan kami buat. Pada bagian user interface kita juga akan membuat page welcome pada pengguna dan	memberikan informasi apabila user salah memasukkan input.
 	
