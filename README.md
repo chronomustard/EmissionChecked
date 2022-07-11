@@ -1,9 +1,9 @@
 # EmissionChecked: Program Penyedia Klasifikasi Kualitas Emisi Gas Buang pada Sektor Industri
 
 ## Penulis
-- Ivan Indirsyah Pahlevi (2006574332)
-- Ricky Rahman Papudi (2006574282)
-- Rifqi Annas Albasyahri (2006574370)
+- Ivan Indirsyah Pahlevi (2006574332), EE'20
+- Ricky Rahman Papudi (2006574282), EE'20
+- Rifqi Annas Albasyahri (2006574370), EE'20
 
 ## Tujuan
 Mengklasifikasikan kualitas emisi gas buang dari dari sektor industri sesuai dengan standarisasi Kementerian Lingkungan Hidup dan Kehutanan (KLHK).
